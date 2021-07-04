@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! This is Sai Reddy 👋</h1>
+<h1 align="center">Hello World! This is Sai REddy 👋</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" height="200"/>
 </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saireddyavs" alt="saireddyavs" /> </p>
 
-- 🔭 I’m currently working as [Application Developer Intern](thoughtworks.com)
+- 🔭 I’m currently working as [Application Developer Intern](https://thoughtworks.com)
 
 
 - 📄 Chekout my Resume here - [saireddyavs Resume](https://drive.google.com/file/d/1kqJ8AytamZ8VXbdiIRMBnbA7Hfg6FCqD/view?usp=sharing)
@@ -60,4 +60,3 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=saireddyavs&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="saireddyavs"/>
 </p>
 
-![profile](https://hit.yhype.me/github/profile?user_id=50389739)
