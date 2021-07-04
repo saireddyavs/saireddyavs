@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! This is Sai REddy 👋</h1>
+<h1 align="center">Hello World! This is Sai Reddy 👋</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e47dcj7w35th4zqt7w360lqh6ey885vmyw03om06wl3&rid=giphy.gif&ct=g" height="200"/>
 </p>
@@ -51,7 +51,7 @@
 ### Other GitHub Stats
 
   <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddyavs&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saireddyavs&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddyavs&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="saireddyavs" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saireddyavs&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px />
   </p>
 
 ### 🤖 Contribution Graph
@@ -59,4 +59,5 @@
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=saireddyavs&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="saireddyavs"/>
 </p>
+
 
