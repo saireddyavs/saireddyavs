@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working as [Application Developer Intern](https://thoughtworks.com)
 
-
 - 📄 Chekout my Resume here - [saireddyavs Resume](https://drive.google.com/file/d/1kqJ8AytamZ8VXbdiIRMBnbA7Hfg6FCqD/view?usp=sharing)
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,22 +40,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+  <p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddyavs&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="saireddyavs" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saireddyavs&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px />
+  </p>
+
 <p align="center">
 <a href="https://github.com/saireddyavs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saireddyavs&theme=nightowl&hide_border=true" alt="saireddyavs"/>
 </a>
 </p>
 
-### Other GitHub Stats
-
-  <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddyavs&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="saireddyavs" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saireddyavs&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px />
-  </p>
-
 ### 🤖 Contribution Graph
 
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=saireddyavs&bg_color=011627&color=FFFFFF&line=19e6e1&point=c0f0f7&hide_border=true" alt="saireddyavs"/>
 </p>
-
-
