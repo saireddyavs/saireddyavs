@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -44,11 +45,11 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saireddyavs&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="saireddyavs" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saireddyavs&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saireddyavs" height=150px />
   </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/saireddyavs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saireddyavs&theme=nightowl&hide_border=true" alt="saireddyavs"/>
 </a>
-</p>
+</p> -->
 
 ### 🤖 Contribution Graph
 
