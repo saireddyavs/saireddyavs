@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working as [Application Developer Intern](https://thoughtworks.com)
 
-- 📄 Chekout my Resume here - [saireddyavs Resume](https://drive.google.com/file/d/1kqJ8AytamZ8VXbdiIRMBnbA7Hfg6FCqD/view?usp=sharing)
+<!-- - 📄 Chekout my Resume here - [saireddyavs Resume](https://drive.google.com/file/d/1kqJ8AytamZ8VXbdiIRMBnbA7Hfg6FCqD/view?usp=sharing) -->
 
 ### 🛠 &nbsp;Tech Stack
 
